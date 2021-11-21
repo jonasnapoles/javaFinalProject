@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-21T00:43:35.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="y_4fJO7W_UCPn3qTaWAt" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-21T00:44:26.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="RlreB0_4XwFfy8lZva3x" version="15.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1662" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,6 +204,9 @@
             <mxPoint x="360" y="460" as="sourcePoint" />
             <mxPoint x="670" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OJrCmMfGkHU60DXzVTZ8-1" value="&lt;h1&gt;Strieng Media&lt;/h1&gt;&lt;p&gt;Database Final Project Java&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="10" width="680" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
